@@ -1,0 +1,15 @@
+C:\Users\Henry Louis\source\repos\Babble\Babble\bin\Debug\Babble.exe.config
+C:\Users\Henry Louis\source\repos\Babble\Babble\bin\Debug\Babble.exe
+C:\Users\Henry Louis\source\repos\Babble\Babble\bin\Debug\Babble.pdb
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.csprojAssemblyReference.cache
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\MainWindow.g.cs
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\App.g.cs
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble_MarkupCompile.cache
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble_MarkupCompile.lref
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\MainWindow.baml
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.g.resources
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.Properties.Resources.resources
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.csproj.GenerateResource.cache
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.csproj.CoreCompileInputs.cache
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.exe
+C:\Users\Henry Louis\source\repos\Babble\Babble\obj\Debug\Babble.pdb
